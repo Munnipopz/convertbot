@@ -1,8 +1,8 @@
 class Translation(object):
-    START_TEXT = """Hello,
-This is a Telegram File convert Bot!
-You can convert any Telegram Document, using this bot! With custom thumbnail
-Please check /help
+    START_TEXT = """ `Hello,`
+`This is a Telegram File convert Bot!`
+`You can convert any Telegram Document, using this bot! With custom thumbnail`
+`Please check` /help
       
     """
     ABS_TEXT = " Please don't be selfish."
@@ -26,17 +26,17 @@ Telegram ID: <code>{}</code>
 Plan name: <a href='https://t.me/mpazaanbot/174'>{}</a>
 Expires on: {}"""
     HELP_USER = """I can do:
-Send your video/file thumbnail first..
-Send your file
-/converttovideo your file replay
+`Send your video/file thumbnail first..`
+`Send your file`
+/converttovideo `your file replay`
 👉 <a href="https://telegram.dog/@FileConvert_robot">Convert To Streamable video any telegram file</a>
 --------
 
-🔥 How to deploy : <a href='https://t.me/mpazaanbot'>Click here</a>
+🔥 `How to deploy` : <a href='https://t.me/mpazaanbot'>Click here</a>
 
-    © Group   : @mpazaanbot
-    © Channel : @mpazaanbots 
-    © credits : @mpazaan
+    `© Group`   : @mpazaanbot
+    `© Channel` : @mpazaanbots 
+    `© credits` : @mpazaan
 
 Send /me to know current plan details
 
