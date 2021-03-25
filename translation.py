@@ -2,7 +2,8 @@ class Translation(object):
     START_TEXT = """Hello,
 This is a Telegram File convert Bot!
 You can convert any Telegram Document, using this bot! With custom thumbnail
-     
+Please check /help
+      
     """
     ABS_TEXT = " Please don't be selfish."
     BANNED_USER_TEXT = "you are banned"
@@ -22,17 +23,20 @@ You can convert any Telegram Document, using this bot! With custom thumbnail
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: <a href='https://t.me/InFoTelGroup/174'>{}</a>
+Plan name: <a href='https://t.me/mpazaanbot/174'>{}</a>
 Expires on: {}"""
     HELP_USER = """I can do:
-👉 <a href="https://telegram.dog/FileConvertRobot">Convert To Streamable video any telegram file</a>
+Send your video/file thumbnail first..
+Send your file
+/converttovideo your file replay
+👉 <a href="https://telegram.dog/@FileConvert_robot">Convert To Streamable video any telegram file</a>
 --------
 
-🔥 How to deploy : <a href='https://youtu.be/zQamSjXBpJU'>Click here</a>
+🔥 How to deploy : <a href='https://t.me/mpazaanbot'>Click here</a>
 
-    © Group   : @InfotelGroup
-    © Channel : @DX_BotZ 
-    © credits : @Spechide
+    © Group   : @mpazaanbot
+    © Channel : @mpazaanbots 
+    © credits : @mpazaan
 
 Send /me to know current plan details
 
